@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "boom": "^5.2.0",
     "firebase-admin": "^5.2.1",
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1",
     "pigpio": "^0.6.1"
   }
 }
